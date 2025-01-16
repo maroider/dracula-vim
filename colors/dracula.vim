@@ -216,7 +216,7 @@ else
 endif
 
 call s:h('DraculaDiffText', s:bg, s:orange)
-call s:h('DraculaInlayHint', s:comment, s:bgdark)
+call s:h('DraculaInlayHint', s:comment, s:none)
 
 " }}}2
 
